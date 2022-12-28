@@ -1,0 +1,100 @@
+C:\Users\HtetKoNaing\Desktop\Code Folder\CS4540\PS7-Web Scraper\bin\Debug\net6.0-windows\PS7-Web Scraper.exe
+C:\Users\HtetKoNaing\Desktop\Code Folder\CS4540\PS7-Web Scraper\bin\Debug\net6.0-windows\PS7-Web Scraper.deps.json
+C:\Users\HtetKoNaing\Desktop\Code Folder\CS4540\PS7-Web Scraper\bin\Debug\net6.0-windows\PS7-Web Scraper.runtimeconfig.json
+C:\Users\HtetKoNaing\Desktop\Code Folder\CS4540\PS7-Web Scraper\bin\Debug\net6.0-windows\PS7-Web Scraper.dll
+C:\Users\HtetKoNaing\Desktop\Code Folder\CS4540\PS7-Web Scraper\bin\Debug\net6.0-windows\PS7-Web Scraper.pdb
+C:\Users\HtetKoNaing\Desktop\Code Folder\CS4540\PS7-Web Scraper\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\HtetKoNaing\Desktop\Code Folder\CS4540\PS7-Web Scraper\bin\Debug\net6.0-windows\WebDriver.dll
+C:\Users\HtetKoNaing\Desktop\Code Folder\CS4540\PS7-Web Scraper\obj\Debug\net6.0-windows\PS7-Web Scraper.csproj.AssemblyReference.cache
+C:\Users\HtetKoNaing\Desktop\Code Folder\CS4540\PS7-Web Scraper\obj\Debug\net6.0-windows\PS7_Web_Scraper.Form1.resources
+C:\Users\HtetKoNaing\Desktop\Code Folder\CS4540\PS7-Web Scraper\obj\Debug\net6.0-windows\PS7-Web Scraper.csproj.GenerateResource.cache
+C:\Users\HtetKoNaing\Desktop\Code Folder\CS4540\PS7-Web Scraper\obj\Debug\net6.0-windows\PS7-Web Scraper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HtetKoNaing\Desktop\Code Folder\CS4540\PS7-Web Scraper\obj\Debug\net6.0-windows\PS7-Web Scraper.AssemblyInfoInputs.cache
+C:\Users\HtetKoNaing\Desktop\Code Folder\CS4540\PS7-Web Scraper\obj\Debug\net6.0-windows\PS7-Web Scraper.AssemblyInfo.cs
+C:\Users\HtetKoNaing\Desktop\Code Folder\CS4540\PS7-Web Scraper\obj\Debug\net6.0-windows\PS7-Web Scraper.csproj.CoreCompileInputs.cache
+C:\Users\HtetKoNaing\Desktop\Code Folder\CS4540\PS7-Web Scraper\obj\Debug\net6.0-windows\PS7-Web Scraper.csproj.CopyComplete
+C:\Users\HtetKoNaing\Desktop\Code Folder\CS4540\PS7-Web Scraper\obj\Debug\net6.0-windows\PS7-Web Scraper.dll
+C:\Users\HtetKoNaing\Desktop\Code Folder\CS4540\PS7-Web Scraper\obj\Debug\net6.0-windows\refint\PS7-Web Scraper.dll
+C:\Users\HtetKoNaing\Desktop\Code Folder\CS4540\PS7-Web Scraper\obj\Debug\net6.0-windows\PS7-Web Scraper.pdb
+C:\Users\HtetKoNaing\Desktop\Code Folder\CS4540\PS7-Web Scraper\obj\Debug\net6.0-windows\PS7-Web Scraper.genruntimeconfig.cache
+C:\Users\HtetKoNaing\Desktop\Code Folder\CS4540\PS7-Web Scraper\obj\Debug\net6.0-windows\ref\PS7-Web Scraper.dll
+C:\Users\HtetKoNaing\Desktop\Code Folder\CS4540\PS-7\bin\Debug\net6.0-windows\PS7-Web Scraper.exe
+C:\Users\HtetKoNaing\Desktop\Code Folder\CS4540\PS-7\bin\Debug\net6.0-windows\PS7-Web Scraper.deps.json
+C:\Users\HtetKoNaing\Desktop\Code Folder\CS4540\PS-7\bin\Debug\net6.0-windows\PS7-Web Scraper.runtimeconfig.json
+C:\Users\HtetKoNaing\Desktop\Code Folder\CS4540\PS-7\bin\Debug\net6.0-windows\PS7-Web Scraper.dll
+C:\Users\HtetKoNaing\Desktop\Code Folder\CS4540\PS-7\bin\Debug\net6.0-windows\PS7-Web Scraper.pdb
+C:\Users\HtetKoNaing\Desktop\Code Folder\CS4540\PS-7\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\HtetKoNaing\Desktop\Code Folder\CS4540\PS-7\bin\Debug\net6.0-windows\WebDriver.dll
+C:\Users\HtetKoNaing\Desktop\Code Folder\CS4540\PS-7\obj\Debug\net6.0-windows\PS7-Web Scraper.csproj.AssemblyReference.cache
+C:\Users\HtetKoNaing\Desktop\Code Folder\CS4540\PS-7\obj\Debug\net6.0-windows\PS7_Web_Scraper.Form1.resources
+C:\Users\HtetKoNaing\Desktop\Code Folder\CS4540\PS-7\obj\Debug\net6.0-windows\PS7-Web Scraper.csproj.GenerateResource.cache
+C:\Users\HtetKoNaing\Desktop\Code Folder\CS4540\PS-7\obj\Debug\net6.0-windows\PS7-Web Scraper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HtetKoNaing\Desktop\Code Folder\CS4540\PS-7\obj\Debug\net6.0-windows\PS7-Web Scraper.AssemblyInfoInputs.cache
+C:\Users\HtetKoNaing\Desktop\Code Folder\CS4540\PS-7\obj\Debug\net6.0-windows\PS7-Web Scraper.AssemblyInfo.cs
+C:\Users\HtetKoNaing\Desktop\Code Folder\CS4540\PS-7\obj\Debug\net6.0-windows\PS7-Web Scraper.csproj.CoreCompileInputs.cache
+C:\Users\HtetKoNaing\Desktop\Code Folder\CS4540\PS-7\obj\Debug\net6.0-windows\PS7-Web Scraper.csproj.CopyComplete
+C:\Users\HtetKoNaing\Desktop\Code Folder\CS4540\PS-7\obj\Debug\net6.0-windows\PS7-Web Scraper.dll
+C:\Users\HtetKoNaing\Desktop\Code Folder\CS4540\PS-7\obj\Debug\net6.0-windows\refint\PS7-Web Scraper.dll
+C:\Users\HtetKoNaing\Desktop\Code Folder\CS4540\PS-7\obj\Debug\net6.0-windows\PS7-Web Scraper.pdb
+C:\Users\HtetKoNaing\Desktop\Code Folder\CS4540\PS-7\obj\Debug\net6.0-windows\PS7-Web Scraper.genruntimeconfig.cache
+C:\Users\HtetKoNaing\Desktop\Code Folder\CS4540\PS-7\obj\Debug\net6.0-windows\ref\PS7-Web Scraper.dll
+C:\Users\u1216649\Desktop\PS-7\bin\Debug\net6.0-windows\PS7-Web Scraper.exe
+C:\Users\u1216649\Desktop\PS-7\bin\Debug\net6.0-windows\PS7-Web Scraper.deps.json
+C:\Users\u1216649\Desktop\PS-7\bin\Debug\net6.0-windows\PS7-Web Scraper.runtimeconfig.json
+C:\Users\u1216649\Desktop\PS-7\bin\Debug\net6.0-windows\PS7-Web Scraper.dll
+C:\Users\u1216649\Desktop\PS-7\bin\Debug\net6.0-windows\PS7-Web Scraper.pdb
+C:\Users\u1216649\Desktop\PS-7\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\u1216649\Desktop\PS-7\bin\Debug\net6.0-windows\WebDriver.dll
+C:\Users\u1216649\Desktop\PS-7\obj\Debug\net6.0-windows\PS7-Web Scraper.csproj.AssemblyReference.cache
+C:\Users\u1216649\Desktop\PS-7\obj\Debug\net6.0-windows\PS7_Web_Scraper.Form1.resources
+C:\Users\u1216649\Desktop\PS-7\obj\Debug\net6.0-windows\PS7-Web Scraper.csproj.GenerateResource.cache
+C:\Users\u1216649\Desktop\PS-7\obj\Debug\net6.0-windows\PS7-Web Scraper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\u1216649\Desktop\PS-7\obj\Debug\net6.0-windows\PS7-Web Scraper.AssemblyInfoInputs.cache
+C:\Users\u1216649\Desktop\PS-7\obj\Debug\net6.0-windows\PS7-Web Scraper.AssemblyInfo.cs
+C:\Users\u1216649\Desktop\PS-7\obj\Debug\net6.0-windows\PS7-Web Scraper.csproj.CoreCompileInputs.cache
+C:\Users\u1216649\Desktop\PS-7\obj\Debug\net6.0-windows\PS7-Web Scraper.csproj.CopyComplete
+C:\Users\u1216649\Desktop\PS-7\obj\Debug\net6.0-windows\PS7-Web Scraper.dll
+C:\Users\u1216649\Desktop\PS-7\obj\Debug\net6.0-windows\refint\PS7-Web Scraper.dll
+C:\Users\u1216649\Desktop\PS-7\obj\Debug\net6.0-windows\PS7-Web Scraper.pdb
+C:\Users\u1216649\Desktop\PS-7\obj\Debug\net6.0-windows\PS7-Web Scraper.genruntimeconfig.cache
+C:\Users\u1216649\Desktop\PS-7\obj\Debug\net6.0-windows\ref\PS7-Web Scraper.dll
+C:\Users\HtetKoNaing\Desktop\PS7\bin\Debug\net6.0-windows\PS7-Web Scraper.exe
+C:\Users\HtetKoNaing\Desktop\PS7\bin\Debug\net6.0-windows\PS7-Web Scraper.deps.json
+C:\Users\HtetKoNaing\Desktop\PS7\bin\Debug\net6.0-windows\PS7-Web Scraper.runtimeconfig.json
+C:\Users\HtetKoNaing\Desktop\PS7\bin\Debug\net6.0-windows\PS7-Web Scraper.dll
+C:\Users\HtetKoNaing\Desktop\PS7\bin\Debug\net6.0-windows\PS7-Web Scraper.pdb
+C:\Users\HtetKoNaing\Desktop\PS7\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\HtetKoNaing\Desktop\PS7\bin\Debug\net6.0-windows\WebDriver.dll
+C:\Users\HtetKoNaing\Desktop\PS7\obj\Debug\net6.0-windows\PS7-Web Scraper.csproj.AssemblyReference.cache
+C:\Users\HtetKoNaing\Desktop\PS7\obj\Debug\net6.0-windows\PS7_Web_Scraper.Form1.resources
+C:\Users\HtetKoNaing\Desktop\PS7\obj\Debug\net6.0-windows\PS7-Web Scraper.csproj.GenerateResource.cache
+C:\Users\HtetKoNaing\Desktop\PS7\obj\Debug\net6.0-windows\PS7-Web Scraper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HtetKoNaing\Desktop\PS7\obj\Debug\net6.0-windows\PS7-Web Scraper.AssemblyInfoInputs.cache
+C:\Users\HtetKoNaing\Desktop\PS7\obj\Debug\net6.0-windows\PS7-Web Scraper.AssemblyInfo.cs
+C:\Users\HtetKoNaing\Desktop\PS7\obj\Debug\net6.0-windows\PS7-Web Scraper.csproj.CoreCompileInputs.cache
+C:\Users\HtetKoNaing\Desktop\PS7\obj\Debug\net6.0-windows\PS7-Web Scraper.csproj.CopyComplete
+C:\Users\HtetKoNaing\Desktop\PS7\obj\Debug\net6.0-windows\PS7-Web Scraper.dll
+C:\Users\HtetKoNaing\Desktop\PS7\obj\Debug\net6.0-windows\refint\PS7-Web Scraper.dll
+C:\Users\HtetKoNaing\Desktop\PS7\obj\Debug\net6.0-windows\PS7-Web Scraper.pdb
+C:\Users\HtetKoNaing\Desktop\PS7\obj\Debug\net6.0-windows\PS7-Web Scraper.genruntimeconfig.cache
+C:\Users\HtetKoNaing\Desktop\PS7\obj\Debug\net6.0-windows\ref\PS7-Web Scraper.dll
+C:\Users\HtetKoNaing\Desktop\Code Folder\Web Scraper\bin\Debug\net6.0-windows\PS7-Web Scraper.exe
+C:\Users\HtetKoNaing\Desktop\Code Folder\Web Scraper\bin\Debug\net6.0-windows\PS7-Web Scraper.deps.json
+C:\Users\HtetKoNaing\Desktop\Code Folder\Web Scraper\bin\Debug\net6.0-windows\PS7-Web Scraper.runtimeconfig.json
+C:\Users\HtetKoNaing\Desktop\Code Folder\Web Scraper\bin\Debug\net6.0-windows\PS7-Web Scraper.dll
+C:\Users\HtetKoNaing\Desktop\Code Folder\Web Scraper\bin\Debug\net6.0-windows\PS7-Web Scraper.pdb
+C:\Users\HtetKoNaing\Desktop\Code Folder\Web Scraper\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\HtetKoNaing\Desktop\Code Folder\Web Scraper\bin\Debug\net6.0-windows\WebDriver.dll
+C:\Users\HtetKoNaing\Desktop\Code Folder\Web Scraper\obj\Debug\net6.0-windows\PS7-Web Scraper.csproj.AssemblyReference.cache
+C:\Users\HtetKoNaing\Desktop\Code Folder\Web Scraper\obj\Debug\net6.0-windows\PS7_Web_Scraper.Form1.resources
+C:\Users\HtetKoNaing\Desktop\Code Folder\Web Scraper\obj\Debug\net6.0-windows\PS7-Web Scraper.csproj.GenerateResource.cache
+C:\Users\HtetKoNaing\Desktop\Code Folder\Web Scraper\obj\Debug\net6.0-windows\PS7-Web Scraper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HtetKoNaing\Desktop\Code Folder\Web Scraper\obj\Debug\net6.0-windows\PS7-Web Scraper.AssemblyInfoInputs.cache
+C:\Users\HtetKoNaing\Desktop\Code Folder\Web Scraper\obj\Debug\net6.0-windows\PS7-Web Scraper.AssemblyInfo.cs
+C:\Users\HtetKoNaing\Desktop\Code Folder\Web Scraper\obj\Debug\net6.0-windows\PS7-Web Scraper.csproj.CoreCompileInputs.cache
+C:\Users\HtetKoNaing\Desktop\Code Folder\Web Scraper\obj\Debug\net6.0-windows\PS7-Web Scraper.csproj.CopyComplete
+C:\Users\HtetKoNaing\Desktop\Code Folder\Web Scraper\obj\Debug\net6.0-windows\PS7-Web Scraper.dll
+C:\Users\HtetKoNaing\Desktop\Code Folder\Web Scraper\obj\Debug\net6.0-windows\refint\PS7-Web Scraper.dll
+C:\Users\HtetKoNaing\Desktop\Code Folder\Web Scraper\obj\Debug\net6.0-windows\PS7-Web Scraper.pdb
+C:\Users\HtetKoNaing\Desktop\Code Folder\Web Scraper\obj\Debug\net6.0-windows\PS7-Web Scraper.genruntimeconfig.cache
+C:\Users\HtetKoNaing\Desktop\Code Folder\Web Scraper\obj\Debug\net6.0-windows\ref\PS7-Web Scraper.dll

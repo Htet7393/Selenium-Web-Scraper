@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "T0zQ9my7a/0Ht3kyJTq89s7KuUqzt9op0U6O7+MCBzUA0PquuZHkhDU0RMHBiRkNDGY3lkQrcXmshACxK2JnTA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HtetKoNaing\\Desktop\\Code Folder\\Web Scraper\\PS7-Web Scraper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HtetKoNaing\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\HtetKoNaing\\.nuget\\packages\\selenium.webdriver\\4.5.1\\selenium.webdriver.4.5.1.nupkg.sha512",
+    "C:\\Users\\HtetKoNaing\\.nuget\\packages\\selenium.webdriver.chromedriver\\108.0.5359.7100\\selenium.webdriver.chromedriver.108.0.5359.7100.nupkg.sha512"
+  ],
+  "logs": []
+}
